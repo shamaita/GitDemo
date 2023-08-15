@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-03T20:39:39 IST" name="Default suite" finished-at="2023-08-03T20:39:39 IST" duration-ms="72">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T20:39:39 IST" name="Default test" finished-at="2023-08-03T20:39:39 IST" duration-ms="72">
+      <class name="TestNgTutorial.RunByTestNGDay1">
+        <test-method signature="check()[pri:0, instance:TestNgTutorial.RunByTestNGDay1@55183b20]" started-at="2023-08-03T20:39:39 IST" name="check" finished-at="2023-08-03T20:39:39 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method signature="demo()[pri:0, instance:TestNgTutorial.RunByTestNGDay1@55183b20]" started-at="2023-08-03T20:39:39 IST" name="demo" finished-at="2023-08-03T20:39:39 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="senondTc()[pri:0, instance:TestNgTutorial.RunByTestNGDay1@55183b20]" started-at="2023-08-03T20:39:39 IST" name="senondTc" finished-at="2023-08-03T20:39:39 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senondTc -->
+      </class> <!-- TestNgTutorial.RunByTestNGDay1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
