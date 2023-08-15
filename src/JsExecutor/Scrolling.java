@@ -114,6 +114,10 @@ public class Scrolling {
 	              */
 
 	              Assert.assertEquals(expect, current);
+	              
+	              //Git
+	              System.out.println("Hi welcome to git");
+	              System.out.println("Hi welcome to gitHub");
 
 	      
 
