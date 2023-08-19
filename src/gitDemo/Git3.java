@@ -1,6 +1,6 @@
-package GitDemo;
+package gitDemo;
 
-public class Git1 {
+public class Git3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -9,7 +9,6 @@ public class Git1 {
         
         System.out.println("This is my senond line");
         System.out.println("Hi asia");
-
 	}
 
 }
